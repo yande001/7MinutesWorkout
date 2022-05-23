@@ -16,6 +16,7 @@
         <entry key="app/src/main/res/layout/activity_exercise.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_finish.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17753623188405798" />
+        <entry key="app/src/main/res/layout/dialog_custom_back_confirmation.xml" value="0.19202898550724637" />
         <entry key="app/src/main/res/layout/item_exercise_status.xml" value="0.37383292377858923" />
       </map>
     </option>
